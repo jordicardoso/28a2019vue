@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/28a2019vue/precache-manifest.aa1eca6d95e5e9dce8f43c235a09f846.js"
+  "/28a2019vue/precache-manifest.1b72e8efdb44ec6dd88c3df35b5e05c2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "28a2019vue"});

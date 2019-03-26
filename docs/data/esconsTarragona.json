@@ -4,16 +4,16 @@
       "legend": "JxC",
       "name": "JxC",
       "colour": "#FF5B9C",
-      "seats": 4,
-      "vots" : 193139
+      "seats": 5,
+      "vots" : 101311
   },
   {
       "id": "erc",
       "legend": "ERC",
       "name": "ERC",
       "colour": "#F8BC4B",
-      "seats": 4,
-      "vots": 190977
+      "seats": 5,
+      "vots": 112462
   },
   {
       "id": "vox",
@@ -21,15 +21,15 @@
       "name": "VOX",
       "colour": "#F6E134",
       "seats": 0,
-      "vots": 32372
+      "vots": 17476
   },
   {
       "id": "cs",
       "legend": "Cs",
       "name": "Cs",
       "colour": "#FA7515",
-      "seats": 5,
-      "vots": 197850
+      "seats": 3,
+      "vots": 68721
   },
   {
       "id": "psoe",
@@ -37,7 +37,7 @@
       "name": "PSOE",
       "colour": "#C8001E",
       "seats": 4,
-      "vots": 197459
+      "vots": 89513
   },
   {
       "id": "com",
@@ -45,7 +45,7 @@
       "name": "Comuns",
       "colour": "#701471",
       "seats": 1,
-      "vots": 63554
+      "vots": 35828
   },
   {
       "id": "pp",
@@ -53,7 +53,7 @@
       "name": "PP",
       "colour": "#4F92E1",
       "seats": 0,
-      "vots": 15996
+      "vots": 8694
   },
   {
       "id": "pacma",
@@ -61,6 +61,6 @@
       "name": "PACMA",
       "colour": "#BAC02E",
       "seats": 0,
-      "vots": 2996
+      "vots": 1591
   }
 ]

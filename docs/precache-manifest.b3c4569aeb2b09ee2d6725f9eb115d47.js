@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-Black.59eb3601.woff2"
   },
   {
-    "revision": "e337a1cacecbc7e3e4d3",
-    "url": "/28a2019vue/js/app-legacy.50968f65.js"
+    "revision": "558c9e8f95a1eaed0bdd",
+    "url": "/28a2019vue/js/app-legacy.417ae908.js"
   },
   {
-    "revision": "2378dc1a45e896dcb87b",
-    "url": "/28a2019vue/js/chunk-0e3b153c-legacy.667b7331.js"
+    "revision": "e36864e664d6d36b6404",
+    "url": "/28a2019vue/js/chunk-0e3b153c-legacy.8bc109eb.js"
   },
   {
     "revision": "dfc7d17c68fb6b3b1414",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-MediumItalic.13ec0eb5.woff2"
   },
   {
-    "revision": "2d624ae40a16dc4c1dae61aeb1a7bad8",
+    "revision": "416d7feebff1e5b7976439d49915af5e",
     "url": "/28a2019vue/index.html"
   },
   {
@@ -64,16 +64,16 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-Light.d26871e8.woff2"
   },
   {
+    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
+    "url": "/28a2019vue/fonts/Roboto-Regular.73f0a88b.woff2"
+  },
+  {
     "revision": "90d1676003d9c28c04994c18bfd8b558",
     "url": "/28a2019vue/fonts/Roboto-Medium.90d16760.woff2"
   },
   {
     "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
     "url": "/28a2019vue/fonts/Roboto-Bold.b52fac2b.woff2"
-  },
-  {
-    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
-    "url": "/28a2019vue/fonts/Roboto-Regular.73f0a88b.woff2"
   },
   {
     "revision": "cc2fadc3928f2f223418887111947b40",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-RegularItalic.4357beb8.woff2"
   },
   {
-    "revision": "83e114c316fcc3f23f524ec3e1c65984",
-    "url": "/28a2019vue/fonts/Roboto-MediumItalic.83e114c3.woff"
+    "revision": "f5902d5ef961717ed263902fc429e6ae",
+    "url": "/28a2019vue/fonts/Roboto-RegularItalic.f5902d5e.woff"
   },
   {
     "revision": "4fe0f73cc919ba2b7a3c36e4540d725c",
@@ -112,12 +112,12 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-Light.c73eb1ce.woff"
   },
   {
-    "revision": "1d6594826615607f6dc860bb49258acb",
-    "url": "/28a2019vue/fonts/Roboto-Medium.1d659482.woff"
-  },
-  {
     "revision": "35b07eb2f8711ae08d1f58c043880930",
     "url": "/28a2019vue/fonts/Roboto-Regular.35b07eb2.woff"
+  },
+  {
+    "revision": "1d6594826615607f6dc860bb49258acb",
+    "url": "/28a2019vue/fonts/Roboto-Medium.1d659482.woff"
   },
   {
     "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
@@ -128,16 +128,16 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-Black.313a6563.woff"
   },
   {
-    "revision": "f5902d5ef961717ed263902fc429e6ae",
-    "url": "/28a2019vue/fonts/Roboto-RegularItalic.f5902d5e.woff"
+    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
+    "url": "/28a2019vue/fonts/Roboto-ThinItalic.8a96edbb.woff"
   },
   {
     "revision": "13efe6cbc10b97144a28310ebdeda594",
     "url": "/28a2019vue/fonts/Roboto-LightItalic.13efe6cb.woff"
   },
   {
-    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
-    "url": "/28a2019vue/fonts/Roboto-ThinItalic.8a96edbb.woff"
+    "revision": "83e114c316fcc3f23f524ec3e1c65984",
+    "url": "/28a2019vue/fonts/Roboto-MediumItalic.83e114c3.woff"
   },
   {
     "revision": "012cf6a10129e2275d79d6adac7f3b02",
@@ -152,7 +152,7 @@ self.__precacheManifest = [
     "url": "/28a2019vue/css/chunk-5afbd312.9ddda82c.css"
   },
   {
-    "revision": "2378dc1a45e896dcb87b",
+    "revision": "e36864e664d6d36b6404",
     "url": "/28a2019vue/css/chunk-0e3b153c.d61ca786.css"
   }
 ];

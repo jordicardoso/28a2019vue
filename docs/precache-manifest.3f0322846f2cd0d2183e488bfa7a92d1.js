@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4357beb823a5f8d65c260f045d9e019a",
-    "url": "/28a2019vue/fonts/Roboto-RegularItalic.4357beb8.woff2"
+    "revision": "f75569f8a5fab0893fa712d8c0d9c3fe",
+    "url": "/28a2019vue/fonts/Roboto-BlackItalic.f75569f8.woff2"
   },
   {
-    "revision": "ac24c719c3766b4c6a54",
-    "url": "/28a2019vue/js/app.c8d02bce.js"
+    "revision": "7aee6015d294221a8232",
+    "url": "/28a2019vue/js/app.2d09b1e9.js"
   },
   {
     "revision": "37ce8c83ca2294b0d903",
@@ -28,20 +28,20 @@ self.__precacheManifest = [
     "url": "/28a2019vue/js/chunk-2d0ae8a8.308862bd.js"
   },
   {
-    "revision": "05d45189207b3202af82",
-    "url": "/28a2019vue/js/chunk-fd9c9388.1d9b81d9.js"
+    "revision": "d535366605d320e6dac6",
+    "url": "/28a2019vue/js/chunk-fd9c9388.7af82954.js"
   },
   {
     "revision": "b58561417632dd1dd9b2",
     "url": "/28a2019vue/js/chunk-vendors.10617be5.js"
   },
   {
-    "revision": "1d6594826615607f6dc860bb49258acb",
-    "url": "/28a2019vue/fonts/Roboto-Medium.1d659482.woff"
+    "revision": "35b07eb2f8711ae08d1f58c043880930",
+    "url": "/28a2019vue/fonts/Roboto-Regular.35b07eb2.woff"
   },
   {
-    "revision": "c8f31c21e7e37854d9fa1c8a2a43ed50",
-    "url": "/28a2019vue/data/vots_per_mesa.json"
+    "revision": "732fb79f1d4547cc98366d2e755b6487",
+    "url": "/28a2019vue/data/meses_pendents.json"
   },
   {
     "revision": "012cf6a10129e2275d79d6adac7f3b02",
@@ -64,20 +64,20 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-Light.d26871e8.woff2"
   },
   {
-    "revision": "90d1676003d9c28c04994c18bfd8b558",
-    "url": "/28a2019vue/fonts/Roboto-Medium.90d16760.woff2"
-  },
-  {
     "revision": "73f0a88bbca1bec19fb1303c689d04c6",
     "url": "/28a2019vue/fonts/Roboto-Regular.73f0a88b.woff2"
   },
   {
-    "revision": "59eb3601394dd87f30f82433fb39dd94",
-    "url": "/28a2019vue/fonts/Roboto-Black.59eb3601.woff2"
-  },
-  {
     "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
     "url": "/28a2019vue/fonts/Roboto-Bold.b52fac2b.woff2"
+  },
+  {
+    "revision": "90d1676003d9c28c04994c18bfd8b558",
+    "url": "/28a2019vue/fonts/Roboto-Medium.90d16760.woff2"
+  },
+  {
+    "revision": "59eb3601394dd87f30f82433fb39dd94",
+    "url": "/28a2019vue/fonts/Roboto-Black.59eb3601.woff2"
   },
   {
     "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
@@ -96,12 +96,12 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-BoldItalic.94008e69.woff2"
   },
   {
-    "revision": "83c8d5924c48fbc3e3e7b58f2f196b16",
-    "url": "/28a2019vue/data/vots_per_municipi.json"
+    "revision": "7b1f9621a6c82bbccd1f7376f4c0afd0",
+    "url": "/28a2019vue/data/vots_per_mesa.json"
   },
   {
-    "revision": "f75569f8a5fab0893fa712d8c0d9c3fe",
-    "url": "/28a2019vue/fonts/Roboto-BlackItalic.f75569f8.woff2"
+    "revision": "4357beb823a5f8d65c260f045d9e019a",
+    "url": "/28a2019vue/fonts/Roboto-RegularItalic.4357beb8.woff2"
   },
   {
     "revision": "d3b47375afd904983d9be8d6e239a949",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
   {
-    "revision": "35b07eb2f8711ae08d1f58c043880930",
-    "url": "/28a2019vue/fonts/Roboto-Regular.35b07eb2.woff"
+    "revision": "1d6594826615607f6dc860bb49258acb",
+    "url": "/28a2019vue/fonts/Roboto-Medium.1d659482.woff"
   },
   {
     "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
@@ -132,16 +132,16 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-ThinItalic.8a96edbb.woff"
   },
   {
-    "revision": "f5902d5ef961717ed263902fc429e6ae",
-    "url": "/28a2019vue/fonts/Roboto-RegularItalic.f5902d5e.woff"
-  },
-  {
     "revision": "13efe6cbc10b97144a28310ebdeda594",
     "url": "/28a2019vue/fonts/Roboto-LightItalic.13efe6cb.woff"
   },
   {
     "revision": "83e114c316fcc3f23f524ec3e1c65984",
     "url": "/28a2019vue/fonts/Roboto-MediumItalic.83e114c3.woff"
+  },
+  {
+    "revision": "f5902d5ef961717ed263902fc429e6ae",
+    "url": "/28a2019vue/fonts/Roboto-RegularItalic.f5902d5e.woff"
   },
   {
     "revision": "4fe0f73cc919ba2b7a3c36e4540d725c",
@@ -152,12 +152,12 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
-    "revision": "1478e84f2deb7dc49e0437b254d81c52",
+    "revision": "9984bb4c6d84d0cab90bd09f729749c9",
     "url": "/28a2019vue/index.html"
   },
   {
-    "revision": "678475278369f677002f93333cd348a4",
-    "url": "/28a2019vue/data/meses_pendents.json"
+    "revision": "83c8d5924c48fbc3e3e7b58f2f196b16",
+    "url": "/28a2019vue/data/vots_per_municipi.json"
   },
   {
     "revision": "ee1775586a5002d966e4eb4814769f13",
@@ -184,7 +184,7 @@ self.__precacheManifest = [
     "url": "/28a2019vue/css/chunk-vendors.712dfa66.css"
   },
   {
-    "revision": "05d45189207b3202af82",
+    "revision": "d535366605d320e6dac6",
     "url": "/28a2019vue/css/chunk-fd9c9388.d61ca786.css"
   },
   {

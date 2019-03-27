@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-RegularItalic.4357beb8.woff2"
   },
   {
-    "revision": "57629b15beb2af1ae396",
-    "url": "/28a2019vue/js/app.44539296.js"
+    "revision": "ac24c719c3766b4c6a54",
+    "url": "/28a2019vue/js/app.c8d02bce.js"
   },
   {
     "revision": "37ce8c83ca2294b0d903",
@@ -16,44 +16,32 @@ self.__precacheManifest = [
     "url": "/28a2019vue/js/chunk-2d0d9f7e.5f5542ce.js"
   },
   {
-    "revision": "cfae489c846cae3e2d54",
-    "url": "/28a2019vue/js/chunk-2d0e663b.c15fc750.js"
-  },
-  {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/28a2019vue/robots.txt"
   },
   {
-    "revision": "8086b94d4caef4bf7199",
-    "url": "/28a2019vue/js/chunk-3a130f61.961e27c2.js"
+    "revision": "401cf6e121db6d6fb5ac",
+    "url": "/28a2019vue/js/chunk-5afbd312.3e4356a0.js"
   },
   {
     "revision": "e177b2353fd077359ffe",
     "url": "/28a2019vue/js/chunk-2d0ae8a8.308862bd.js"
   },
   {
-    "revision": "9e2f1ba6517577946d8e",
-    "url": "/28a2019vue/js/chunk-52a36338.86f8276a.js"
+    "revision": "05d45189207b3202af82",
+    "url": "/28a2019vue/js/chunk-fd9c9388.1d9b81d9.js"
   },
   {
-    "revision": "6ecc3e85212ccd546c25",
-    "url": "/28a2019vue/js/chunk-vendors.087f4f43.js"
+    "revision": "b58561417632dd1dd9b2",
+    "url": "/28a2019vue/js/chunk-vendors.10617be5.js"
   },
   {
-    "revision": "ea1d2606f5f1ef24118c",
-    "url": "/28a2019vue/js/chunk-c1603f90.126d5ca5.js"
+    "revision": "1d6594826615607f6dc860bb49258acb",
+    "url": "/28a2019vue/fonts/Roboto-Medium.1d659482.woff"
   },
   {
-    "revision": "35b07eb2f8711ae08d1f58c043880930",
-    "url": "/28a2019vue/fonts/Roboto-Regular.35b07eb2.woff"
-  },
-  {
-    "revision": "6c97061e332f9b62bdeafbb2bc253289",
+    "revision": "c8f31c21e7e37854d9fa1c8a2a43ed50",
     "url": "/28a2019vue/data/vots_per_mesa.json"
-  },
-  {
-    "revision": "570eb83859dc23dd0eec423a49e147fe",
-    "url": "/28a2019vue/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
   {
     "revision": "012cf6a10129e2275d79d6adac7f3b02",
@@ -76,20 +64,20 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-Light.d26871e8.woff2"
   },
   {
-    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
-    "url": "/28a2019vue/fonts/Roboto-Regular.73f0a88b.woff2"
-  },
-  {
     "revision": "90d1676003d9c28c04994c18bfd8b558",
     "url": "/28a2019vue/fonts/Roboto-Medium.90d16760.woff2"
   },
   {
-    "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
-    "url": "/28a2019vue/fonts/Roboto-Bold.b52fac2b.woff2"
+    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
+    "url": "/28a2019vue/fonts/Roboto-Regular.73f0a88b.woff2"
   },
   {
     "revision": "59eb3601394dd87f30f82433fb39dd94",
     "url": "/28a2019vue/fonts/Roboto-Black.59eb3601.woff2"
+  },
+  {
+    "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
+    "url": "/28a2019vue/fonts/Roboto-Bold.b52fac2b.woff2"
   },
   {
     "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
@@ -100,16 +88,16 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-LightItalic.e8eaae90.woff2"
   },
   {
-    "revision": "dc548badd4a2782db78e6d5c590898bb",
-    "url": "/28a2019vue/data/vots_per_municipi.json"
-  },
-  {
     "revision": "13ec0eb5bdb821ff4930237d7c9f943f",
     "url": "/28a2019vue/fonts/Roboto-MediumItalic.13ec0eb5.woff2"
   },
   {
     "revision": "94008e69aaf05da75c0bbf8f8bb0db41",
     "url": "/28a2019vue/fonts/Roboto-BoldItalic.94008e69.woff2"
+  },
+  {
+    "revision": "83c8d5924c48fbc3e3e7b58f2f196b16",
+    "url": "/28a2019vue/data/vots_per_municipi.json"
   },
   {
     "revision": "f75569f8a5fab0893fa712d8c0d9c3fe",
@@ -124,12 +112,12 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-Light.c73eb1ce.woff"
   },
   {
-    "revision": "c434ea6313babcefa32ab9430e980dae",
-    "url": "/28a2019vue/index.html"
+    "revision": "570eb83859dc23dd0eec423a49e147fe",
+    "url": "/28a2019vue/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
   {
-    "revision": "1d6594826615607f6dc860bb49258acb",
-    "url": "/28a2019vue/fonts/Roboto-Medium.1d659482.woff"
+    "revision": "35b07eb2f8711ae08d1f58c043880930",
+    "url": "/28a2019vue/fonts/Roboto-Regular.35b07eb2.woff"
   },
   {
     "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
@@ -164,6 +152,10 @@ self.__precacheManifest = [
     "url": "/28a2019vue/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
+    "revision": "1478e84f2deb7dc49e0437b254d81c52",
+    "url": "/28a2019vue/index.html"
+  },
+  {
     "revision": "678475278369f677002f93333cd348a4",
     "url": "/28a2019vue/data/meses_pendents.json"
   },
@@ -188,19 +180,15 @@ self.__precacheManifest = [
     "url": "/28a2019vue/data/escons.json"
   },
   {
-    "revision": "6ecc3e85212ccd546c25",
-    "url": "/28a2019vue/css/chunk-vendors.8a7aacc4.css"
+    "revision": "b58561417632dd1dd9b2",
+    "url": "/28a2019vue/css/chunk-vendors.712dfa66.css"
   },
   {
-    "revision": "ea1d2606f5f1ef24118c",
-    "url": "/28a2019vue/css/chunk-c1603f90.d61ca786.css"
+    "revision": "05d45189207b3202af82",
+    "url": "/28a2019vue/css/chunk-fd9c9388.d61ca786.css"
   },
   {
-    "revision": "9e2f1ba6517577946d8e",
-    "url": "/28a2019vue/css/chunk-52a36338.0c58c949.css"
-  },
-  {
-    "revision": "8086b94d4caef4bf7199",
-    "url": "/28a2019vue/css/chunk-3a130f61.f1877e01.css"
+    "revision": "401cf6e121db6d6fb5ac",
+    "url": "/28a2019vue/css/chunk-5afbd312.9ddda82c.css"
   }
 ];

@@ -16,12 +16,12 @@
       "vots": 1396133
   },
   {
-      "id": "vox",
-      "legend": "VOX",
-      "name": "VOX",
-      "colour": "#74DF4F",
-      "seats": 3,
-      "vots": 228641
+        "id": "psoe",
+        "legend": "PSOE",
+        "name": "PSOE",
+        "colour": "#C8001E",
+        "seats": 18,
+        "vots": 1161843
   },
   {
       "id": "cs",
@@ -32,20 +32,20 @@
       "vots": 926916
   },
   {
-      "id": "psoe",
-      "legend": "PSOE",
-      "name": "PSOE",
-      "colour": "#C8001E",
-      "seats": 18,
-      "vots": 1161843
-  },
-  {
       "id": "com",
       "legend": "Comuns",
       "name": "Comuns",
       "colour": "#701471",
       "seats": 7,
       "vots": 462357
+  },
+  {
+        "id": "vox",
+        "legend": "VOX",
+        "name": "VOX",
+        "colour": "#74DF4F",
+        "seats": 3,
+        "vots": 228641
   },
   {
       "id": "pp",
